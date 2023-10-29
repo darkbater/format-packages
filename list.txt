@@ -1,11 +1,11 @@
 SDFdsfsdfs fdsfs: erterter, treterter,rt erter-rte, tre
     :subscription-manager
 Installed Packages
-ADfgddfgd.x86_64<------>1.32-234.dd34
-bDfgddfgd-fgsdf.x86_64<>1:2.32-234.dd34
-cDfgddfgd-fgg.x86_64<-->3.32-234.dd34
-sDfgddfgd.amr<-><------>44:4.32-234.dd34
-sDfgddfgd.i686<><------>a:4.32-234.dd34
-sDfgddfgd.noarch<------>4:4.32-234.dd34
-dDfgddfgd-fgsdf.x86_64<>5.32-234.dd34
-eDfgddfgd-fgg.i686<---->6.32-234.dd34
+ADfgddfgd.x86_64    1.32-234.dd34 @rerfg-gfhgg
+bDfgddfgd-fgsdf.x86_64  1:2.32-234.dd34 @rerfg-gfhgg
+cDfgddfgd-fgg.x86_64   3.32-234.dd34
+sDfgddfgd.amr 44:4.32-234.dd34
+sDfgddfgd.i686 a:4.32-234.dd34 @rerfg-gfhgg
+sDfgddfgd.noarch 4:4.32-234.dd34
+dDfgddfgd-fgsdf.x86_64 5.32-234.dd34
+eDfgddfgd-fgg.i686 6.32-234.dd34
